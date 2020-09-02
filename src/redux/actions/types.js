@@ -1,0 +1,5 @@
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const SET_ERRORS = "SET_ERRORS";
+export const SET_PROGRAMS = "SET_PROGRAMS";
+export const APPLY_PROGRAM = "APPLY_PROGRAM";
+export const GET_PROFILE = "GET_PROFILE"
